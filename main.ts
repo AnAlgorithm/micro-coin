@@ -69,8 +69,12 @@ input.onButtonPressed(Button.B, function () {
             }
         }
         mode = 0
-        radio.sendValue("transaction", transactToGroup)
-        transactedCoins += 1
+        if (blockchain.length() - transactedCoins == 0) {
+            basic.showString("Not enough money")
+        } else {
+            radio.sendValue("transaction", transactToGroup)
+            transactedCoins += 1
+        }
     }
 })
 radio.onReceivedValue(function (name, value) {
