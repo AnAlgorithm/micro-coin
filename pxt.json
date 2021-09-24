@@ -1,5 +1,6 @@
 {
     "name": "micro:coin Mining and Transaction(for v2)",
+    "version": "1.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
