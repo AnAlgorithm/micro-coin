@@ -25,8 +25,6 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/analgorithm/micro-coin/raw/master/.github/makecode/blocks.png)
 
-> Open this page at [https://analgorithm.github.io/micro-coin/](https://analgorithm.github.io/micro-coin/)
-
 ## How to use
 
 * Run the project.
