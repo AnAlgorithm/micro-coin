@@ -70,7 +70,9 @@ input.onButtonPressed(Button.B, function () {
         }
         mode = 0
         if (blockchain.length() - transactedCoins == 0) {
-            basic.showString("Not enough money")
+            basic.showIcon(IconNames.Sad)
+            basic.pause(1000)
+            basic.clearScreen()
         } else {
             radio.sendValue("transaction", transactToGroup)
             transactedCoins += 1
