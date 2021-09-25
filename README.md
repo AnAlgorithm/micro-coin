@@ -1,5 +1,5 @@
 
-> View the project at [https://makecode.microbit.org/_edmh2pWzYc8i](https://makecode.microbit.org/_edmh2pWzYc8i)
+> View the project at [https://makecode.microbit.org/88179-94785-70279-81572](https://makecode.microbit.org/88179-94785-70279-81572)
 
 > View this page at [https://analgorithm.github.io/micro-coin/](https://analgorithm.github.io/micro-coin/)
 
